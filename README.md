@@ -4,4 +4,4 @@ It is a backend end application to store points like a list that indicates which
 
 ### Preview
 
-![Image of Todo-List]()
+![Image of Todo-List](https://github.com/MusaMalikx/Todo-List/blob/master/preview.gif)
